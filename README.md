@@ -13,9 +13,9 @@ To find out more please visit:
 [👄 Hashlips Discord](https://discord.com/invite/qh6MWhMJDN) (You Can Find Me in Hashlips Server)
 
 
-# HashLips NFT minting dapp (Edits By FazelPejmanfar)🔥
+# HashLips NFT minting dapp 🔥
 
-![](https://github.com/fazelpejmanfar/nft-minting-dapp/blob/master/banner.png)
+![](https://github.com//nft-minting-dapp/blob/master/banner.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -37,7 +37,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/fazelpejmanfar/nft-minting-dapp.git
+git clone https://github.com//nft-minting-dapp.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
